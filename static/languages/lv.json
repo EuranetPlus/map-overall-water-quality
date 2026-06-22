@@ -1,11 +1,13 @@
 {
-  "title": "Tīrākie peldūdeņi Eiropā",
-  "subtitle": "Peldvietu ūdeņu īpatsvars, kas saskaņā ar ES standartiem klasificēti kā izcilas kvalitātes.",
+  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
+  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
   "textNoteDescription": "Piezīme",
-  "textNote": "Dažās valstīs var būt zemāki “izcilas” kvalitātes rādītāji, tomēr tajās joprojām ir “laba” ūdens kvalitāte.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Avots",
-  "textSource": "Eiropas Vides aģentūra (2026)",
+  "textSource": "sdcshdc",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "legend1": "Dati nav pieejami",
+  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
+  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
+  "legend1": "Nav pieejami dati",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }

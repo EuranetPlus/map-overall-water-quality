@@ -1,11 +1,13 @@
 {
-  "title": "Euroopan puhtaimmat uimavedet",
-  "subtitle": "EU-standardien mukaisesti erinomaiseksi luokiteltujen uimavesien osuus.",
-  "textNoteDescription": "Huomautus",
-  "textNote": "Joillakin mailla voi olla alhaisemmat pisteet 'erinomaisesta' laadusta, vaikka niiden vesien laatu on silti 'hyvä'.",
+  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
+  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
+  "textNoteDescription": "Huom",
+  "textNote": "sdchdc",
   "textSourceDescription": "Lähde",
-  "textSource": "Euroopan ympäristökeskus (2026)",
+  "textSource": "sdcshdc",
   "linkDataAccessDescription": "Käytä tietoja",
-  "legend1": "Ei tietoja saatavilla",
+  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
+  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
+  "legend1": "Tietoja ei ole saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }

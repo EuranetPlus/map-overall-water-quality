@@ -1,11 +1,13 @@
 {
-  "title": "Uiscí snámha is glaine san Eoraip",
-  "subtitle": "Sciar d'uiscí snámha aicmithe mar uiscí a bhfuil cáilíocht den scoth acu faoi chaighdeáin an AE.",
+  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
+  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
   "textNoteDescription": "Nóta",
-  "textNote": "D’fhéadfadh scóir níos ísle a bheith ag roinnt tíortha maidir le cáilíocht ‘den scoth’, ach fós uiscí de cháilíocht ‘mhaith’ a bheith acu.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Foinse",
-  "textSource": "Gníomhaireacht Chomhshaoil Eorpach (2026)",
-  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "textSource": "sdcshdc",
+  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
+  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
+  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }

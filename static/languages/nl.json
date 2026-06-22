@@ -1,11 +1,13 @@
 {
-  "title": "De schoonste zwemwateren van Europa",
-  "subtitle": "Aandeel van zwemwater dat volgens EU-normen als van uitstekende kwaliteit is geclassificeerd.",
+  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
+  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "Sommige landen scoren mogelijk lager op 'uitstekende' kwaliteit, terwijl ze toch water van 'goede' kwaliteit hebben.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Bron",
-  "textSource": "Europees Milieuagentschap (2026)",
+  "textSource": "sdcshdc",
   "linkDataAccessDescription": "Toegang tot de gegevens",
+  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
+  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }

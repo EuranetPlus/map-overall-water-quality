@@ -1,13 +1,11 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Kde sú najčistejšie vody na kúpanie v Európe?",
+  "subtitle": "Na Cypre, v Grécku, Bulharsku, Rakúsku, Luxembursku, Dánsku a Nemecku bolo najmenej 90 percent vôd určených na kúpanie klasifikovaných ako „vynikajúce“, zatiaľ čo Albánsko, Estónsko a Poľsko zaznamenali čísla pod 60 percentami.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Niektoré krajiny môžu mať nižšie skóre za „vynikajúcu“ kvalitu, pričom stále majú „dobrú“ kvalitu vody.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Európska environmentálna agentúra (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }

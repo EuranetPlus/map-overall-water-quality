@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Var finns Europas renaste badvatten?",
+  "subtitle": "I Cypern, Grekland, Bulgarien, Österrike, Luxemburg, Danmark och Tyskland klassificerades minst 90 procent av badvattnen som ”utmärkta”, medan Albanien, Estland och Polen registrerade siffror under 60 procent.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Vissa länder kan ha lägre poäng för ”utmärkt” kvalitet, samtidigt som de fortfarande har vatten av ”god” kvalitet.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Europeiska miljöbyrån (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }

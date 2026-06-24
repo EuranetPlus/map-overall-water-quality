@@ -1,13 +1,11 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "Where are Europe's cleanest bathing waters?",
+  "subtitle": "In Cyprus, Greece, Bulgaria, Austria, Luxembourg, Denmark and Germany, at least 90 per cent of bathing waters were classified as ‘excellent’, while Albania, Estonia and Poland recorded figures below 60 per cent.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Some countries may have lower scores for ‘excellent’ quality, whilst still having ‘good’ quality waters.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "European Environment Agency (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here"
 }

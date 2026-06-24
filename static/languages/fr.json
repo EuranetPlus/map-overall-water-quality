@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Où se trouvent les eaux de baignade les plus propres d'Europe ?",
+  "subtitle": "À Chypre, en Grèce, en Bulgarie, en Autriche, au Luxembourg, au Danemark et en Allemagne, au moins 90 % des eaux de baignade ont été classées comme « excellentes », tandis que l’Albanie, l’Estonie et la Pologne ont enregistré des chiffres inférieurs à 60 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Certains pays peuvent obtenir des scores plus faibles pour la qualité « excellente », tout en ayant des eaux de « bonne » qualité.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Agence européenne pour l'environnement (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }

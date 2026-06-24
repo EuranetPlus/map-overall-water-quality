@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Fejn huma l-aktar ilmijiet nodfa għall-għawm fl-Ewropa?",
+  "subtitle": "F’Ċipru, il-Greċja, il-Bulgarija, l-Awstrija, il-Lussemburgu, id-Danimarka u l-Ġermanja, mill-inqas 90 fil-mija tal-ilmijiet għall-għawm ġew ikklassifikati bħala “eċċellenti”, filwaqt li l-Albanija, l-Estonja u l-Polonja rreġistraw ċifri taħt is-60 fil-mija.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Xi pajjiżi jista’ jkollhom punteġġi aktar baxxi għal kwalità ‘eċċellenti’, filwaqt li xorta jkollhom ilmijiet ta’ kwalità ‘tajba’.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Aġenzija Ewropea għall-Ambjent (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }

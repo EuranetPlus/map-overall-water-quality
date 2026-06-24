@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wo befinden sich die saubersten Badegewässer Europas?",
+  "subtitle": "In Zypern, Griechenland, Bulgarien, Österreich, Luxemburg, Dänemark und Deutschland wurden mindestens 90 Prozent der Badegewässer als „ausgezeichnet“ eingestuft, während in Albanien, Estland und Polen Werte unter 60 Prozent verzeichnet wurden.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Einige Länder weisen möglicherweise niedrigere Punktzahlen für „ausgezeichnete“ Qualität auf, obwohl sie über Gewässer von „guter“ Qualität verfügen.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Europäische Umweltagentur (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }

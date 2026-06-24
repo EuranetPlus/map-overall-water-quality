@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kur ir tīrākie peldūdeņi Eiropā?",
+  "subtitle": "Kiprā, Grieķijā, Bulgārijā, Austrijā, Luksemburgā, Dānijā un Vācijā vismaz 90 procenti peldūdeņu tika klasificēti kā “izcili”, savukārt Albānijā, Igaunijā un Polijā šis rādītājs bija zem 60 procentiem.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Dažās valstīs var būt zemāki “izcilas” kvalitātes rādītāji, tomēr tajās joprojām ir “laba” ūdens kvalitāte.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eiropas Vides aģentūra (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }

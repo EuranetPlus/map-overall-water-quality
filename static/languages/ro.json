@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Unde sunt cele mai curate ape de îmbăiere din Europa?",
+  "subtitle": "În Cipru, Grecia, Bulgaria, Austria, Luxemburg, Danemarca și Germania, cel puțin 90% din apele de îmbăiere au fost clasificate drept „excelente”, în timp ce Albania, Estonia și Polonia au înregistrat cifre sub 60%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Unele țări pot avea scoruri mai mici pentru calitate „excelentă”, deși au în continuare ape de „bună” calitate.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Agenția Europeană de Mediu (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
